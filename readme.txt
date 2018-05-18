@@ -4,3 +4,4 @@ Git is changed
 Creating a new branch is quick and simple
 
 branch manage tec
+修复bug101
