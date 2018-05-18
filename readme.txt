@@ -1,4 +1,5 @@
 Git is a distributed  version control system
 Git is free softwire
 Git is changed
-git branch master 
+Creating a new branch is quick and simple
+
